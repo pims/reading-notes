@@ -28,4 +28,7 @@ Inclination to narrate is biological.
 Pure randomness is impossible to compress. 100,000 random words can not be compressed. You need 100,000 to carry the exact message.
 
 Narratives allows for compression. You just store the pattern.
+
+> The more random the information, the greater the dimensionality and thus the more difficult to summarize. Need to reduce dimension and bring order into randomness. Dimension reduction can lead to blindness.
+
  
