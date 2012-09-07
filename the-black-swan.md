@@ -1,6 +1,6 @@
 #The Black Swan – Nassim Nicholas Taleb
 
-Black swan is an even with the following attributes:
+Black swan is an event with the following attributes:
 
 1. It is an outlier, as it lies outside the realm of regular expectations, because nothing in the past can convincingly point to its possibility.
 
